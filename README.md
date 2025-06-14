@@ -6,7 +6,7 @@
 
 It is important to note that some of the classes and utility functions are downloaded from the RISE paper ([arxiv](https://arxiv.org/pdf/1806.07421)) and its publicly available code on GitHub ([GitHub](https://github.com/eclique/RISE)).
 
-## In this project used two different dataset:
+## In this project, two different datasets are used::
 1) Imagenet
 2) Pascal-VOC-07
 

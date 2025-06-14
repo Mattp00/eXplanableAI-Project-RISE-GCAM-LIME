@@ -14,4 +14,4 @@ This project utilizes a subset of the Imagenet (https://www.kaggle.com/datasets/
 
 To run the pointing game, it is necessary to extract the segmentation masks from the Pascal VOC dataset (I have extracted them, and they are available in my public dataset: https://www.kaggle.com/datasets/matteoparrotta/xai-proj-pascal-voc). Alternatively, the pointing game can be implemented using bounding boxes.
 
-The public project can be found directly on kaggle (https://www.kaggle.com/code/matteoparrotta/xai-project-rise-gcam-lime-eval-application)
+The public project can be found directly on kaggle ([kaggle application](https://www.kaggle.com/code/matteoparrotta/xai-project-rise-gcam-lime-eval-application))

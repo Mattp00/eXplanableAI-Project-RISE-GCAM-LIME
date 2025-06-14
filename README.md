@@ -4,7 +4,7 @@
 2) In the other section, these techniques are compared using different metrics (Insertion, Deletion, Pointing Game), analyzing their respective advantages and disadvantages.
 3) In the last section, an XAI technique is applied in the image classification domain to investigate the presence of biases in the models.
 
-It is important to note that some of the classes and utility functions are derived from the RISE paper ([arxiv](https://arxiv.org/pdf/1806.07421)) and its publicly available code on GitHub ([GitHub](https://github.com/eclique/RISE)).
+It is important to note that some of the classes and utility functions are downloaded from the RISE paper ([arxiv](https://arxiv.org/pdf/1806.07421)) and its publicly available code on GitHub ([GitHub](https://github.com/eclique/RISE)).
 
 ## In this project used two different dataset:
 1) Imagenet
